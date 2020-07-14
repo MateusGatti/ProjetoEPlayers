@@ -20546,6 +20546,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\mtgat\\Documents\\Projetos\\ProjetoEPlayers\\Views\\Equipe\\Index.cshtml",
+      "TargetPath": "Views\\Equipe\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\mtgat\\Documents\\Projetos\\ProjetoEPlayers\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -20553,6 +20558,11 @@
     {
       "FilePath": "c:\\Users\\mtgat\\Documents\\Projetos\\ProjetoEPlayers\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\mtgat\\Documents\\Projetos\\ProjetoEPlayers\\Views\\Noticia\\Index.cshtml",
+      "TargetPath": "Views\\Noticia\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
