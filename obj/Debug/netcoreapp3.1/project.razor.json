@@ -20526,11 +20526,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\mtgat\\Documents\\Projetos\\ProjetoEPlayers\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\mtgat\\Documents\\Projetos\\ProjetoEPlayers\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
